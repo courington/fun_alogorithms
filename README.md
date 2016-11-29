@@ -1,2 +1,2 @@
 # Algorithms 1
-[Princeton University / Coursera](https://class.coursera.org/algs4partI-010)
+[Princeton University / Coursera](https://www.coursera.org/course/algs4partI)
